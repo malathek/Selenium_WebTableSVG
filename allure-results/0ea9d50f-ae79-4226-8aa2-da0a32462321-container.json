@@ -1,0 +1,1 @@
+{"uuid":"0ea9d50f-ae79-4226-8aa2-da0a32462321","name":"Selenium_WebTableSVG","children":["b8756ca1-ff4f-493d-979d-5edd0aa38285"],"befores":[{"name":"OpenBrowser","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1721734479560,"stop":1721734482115}],"afters":[],"start":1721734479527,"stop":1721734483926}
